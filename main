@@ -19,4 +19,4 @@ async def on_ready():
 @client.command(name = "reply")
 async def command_reply(ctx, *,text):
     await ctx.send(text)
-client.run("OTEzNDAwMDczMDQ2NjAxNzM4.YZ98Gw.TnvBH8Q4h13osCbj9nHs4kRRXeA")
+client.run("[Token]")
